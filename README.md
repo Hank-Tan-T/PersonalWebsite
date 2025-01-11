@@ -1,7 +1,7 @@
 # Hank's Personal Portfolio Website
 
 Welcome to my personal portfolio website! 🚀  
-This is a platform to showcase my skills, projects, and professional experiences as a Full-Stack Developer and AI Engineer.
+This platform showcases my skills, projects, and professional experiences as a Full-Stack Developer and AI Engineer.
 
 ---
 
@@ -20,8 +20,8 @@ Visitors can explore my skills, view my professional background, and navigate th
 
 ## Live Link
 
-Visit the live version of the website:  
-[Hank's Personal Portfolio](https://Hank-Tan-T.github.io/PersonalWebsite/)
+Check out the live version of my portfolio:  
+[Hank's Personal Portfolio](https://personal-website-ten-dusky.vercel.app/)
 
 ---
 
@@ -35,7 +35,7 @@ The following tools and technologies were used to build this website:
   - CSS animations for enhanced user experience
 
 - **Hosting**:
-  - Deployed using GitHub Pages for static hosting
+  - Deployed using [Vercel](https://vercel.com) for seamless deployment and fast performance.
 
 ---
 
@@ -80,5 +80,12 @@ Here are some potential future updates to this project:
 If you would like to reach out, feel free to contact me:
 
 - **Email**: qaz0987761166@gmail.com  
-- **LinkedIn**: [Hank Tan](https://www.linkedin.com/in/hank-tan-42a306305)  
+- **LinkedIn**: [Hank Tan](https://www.linkedin.com/in/hank-tan-42a306305)
+
+---
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 
